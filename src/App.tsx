@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { KnowledgeApp } from './Components/KnowledgeApp'
 import { Home } from './Components/Home'
 import { Category } from './Components/Category'
-import { TopicDetail } from './Components/Topics/Topic'
+import { TopicDetail } from './Components/Topic'
 
 const App:React.FC = () =>
 {
