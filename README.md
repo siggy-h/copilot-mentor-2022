@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+
+## About this project
+> This is a practice React app built during Ariship's co-pilot mentorship program summer 2022 (June-August). It is not a production worthy app ;). Its main purpose is to help me work through the app structure, provide sample code bits and give guidance as the mentee  builds their own app.
+
+----
+## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
 
 In the project directory, you can run:
 
