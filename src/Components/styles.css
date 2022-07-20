@@ -1,0 +1,29 @@
+.Container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.Content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.logo {
+    height: 100px;
+    pointer-events: none;
+  }
+
+  .CategoryContainer {
+    width: 100%;
+    padding: 20px 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+

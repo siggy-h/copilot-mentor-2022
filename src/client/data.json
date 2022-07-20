@@ -1,0 +1,66 @@
+{
+    "categories": [
+        {
+            "name": "iaa",
+            "title": "IAA",
+            "description": "In-app messages appear within a customer's app. Example customer use cases include: Welcome Messages, Onboarding Messages, App Updates and more.",
+            "topics": [
+                {
+                "name": "tips",
+                "title": "Tips",
+                "entries": [
+                    {
+                        "data": "Set up and practice with a First Flight app",
+                        "createdBy": "Alice Walker",
+                        "created": "2020-12-17T11:24:00.000Z",
+                        "updated": "2021-02-10T11:24:00.000Z"
+                    }
+                    ]
+                },
+                {
+                    "name": "internal_docs",
+                    "title": "Internal Docs",
+                    "description": "description for internal docs topic",
+                    "entries": [
+                        {
+                            "data": "some title and link",
+                            "createdBy": "Jimmy",
+                            "created": "2021-8-10T11:24:00.000Z",
+                            "updated": "2021-08-28T11:24:00.000Z"
+                        }
+                        ]
+                }]
+        },
+        {
+            "name": "message_center",
+            "title": "Message Center",
+            "description": "Message Center is both a place in your app where you can display persistent rich messages, including HTML, video, etc., and a message type.  Similar to email, Message Center represents both the medium (the in-app inbox) and the message type (the messages you send to the inbox).",
+            "topics": [
+                {
+                "name": "tips",
+                "title": "Tips",
+                "entries": [
+                    {
+                        "data": "Set up and practice with a First Flight app",
+                        "createdBy": "Alice Walker",
+                        "created": "2021-11-11T11:24:00.000Z",
+                        "updated": "2022-08-28T11:24:00.000Z"
+                    }
+                    ]
+                },
+                {
+                    "name": "internal_docs",
+                    "title": "Internal Docs",
+                    "description": "description for internal docs topic",
+                    "entries": [
+                        {
+                            "data": "some title and link",
+                            "createdBy": "Scully",
+                            "created": "2022-5-01T11:24:00.000Z",
+                            "updated": "2022-07-15T11:24:00.000Z"
+                        }
+                        ]
+                }]
+        }
+    ]
+}

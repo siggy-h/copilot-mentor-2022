@@ -1,0 +1,14 @@
+.EntryContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px 10px 20px;
+    box-shadow: 5px 5px 10px lavender;
+    border: 1px solid lavender;
+    margin: 0 10px 20px 0;
+}
+
+.byLine {
+    align-self: flex-end;
+    font-style: italic;
+    font-size: x-small;
+}

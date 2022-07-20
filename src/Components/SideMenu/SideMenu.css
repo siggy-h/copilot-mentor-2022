@@ -1,0 +1,53 @@
+.SideMenu {
+    padding:10px 0px;
+    height: 85vh;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.SideMenu ul {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.SideMenu li {
+    font-size: medium;
+    list-style-type: none;
+    margin: 0;
+    padding: 5px 10px 5px 10px;
+}
+
+.SideMenu :focus {
+    color: navy;
+}
+
+.SideMenu a {
+    text-decoration: none;
+}
+
+.SideMenu  :hover {
+    color: green;
+}
+
+.SideMenuListItem {
+    color: black;
+}
+
+.SideMenuListItemActive {
+    color: blue;
+}
+
+.menuCard {
+    padding: 20px;
+    margin: 5px;
+    border: 1px solid lavender;
+    border-radius: 10px;
+}
+
+
